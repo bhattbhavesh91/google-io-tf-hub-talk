@@ -5,6 +5,8 @@
 My Lighting Talk on Landmark Detection using TensorFlow Hub at Google I/O 2021.
 
 ## [Website](https://gdg.community.dev/events/details/google-io-community-lounge-meetups-presents-machine-learning-developers-meetup-americasapac)
+## [Notebook](https://github.com/bhattbhavesh91/google-io-tf-hub-talk/blob/main/landmark-detection-tf-hub-notebook.ipynb)
+
 
 ![](https://raw.githubusercontent.com/bhattbhavesh91/bhattbhavesh91.github.io/master/assets/images/GoogleIO_Poster.PNG)
 
